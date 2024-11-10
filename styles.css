@@ -192,3 +192,11 @@ a:link {
 }
 
 /* this is the blue signup, finished*/
+
+.footer {
+    text-align: center;
+    background-color: #1F2937;
+    padding: 16px;
+    color: white;
+    margin-top: 54px;
+}
