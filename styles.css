@@ -35,4 +35,54 @@ a:link {
     font-size: 24px;
 }
 
-/* ^^ header stuff, should be good and dont need to touch./*
+/* ^^ header stuff, should be good and dont need to touch.*/
+
+.hero-text {
+    font-size: 48px;
+    font-weight: 900;
+    display: flex;
+    padding: 16px; 
+
+}
+
+.group1 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    padding: 32px;
+    margin-left: auto;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.hero {
+    display: flex;
+    color: white;
+    background-color: #1F2937;
+    align-items: center;
+}
+
+.sign-up {
+    background-color: aqua;
+}
+
+.placement {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    height: 200px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* this is the hero section, should be finished and doesnt need to be touched */
