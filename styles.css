@@ -86,3 +86,43 @@ a:link {
 }
 
 /* this is the hero section, should be finished and doesnt need to be touched */
+
+.midtext {
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    padding: 24px;
+    font-weight: 500;
+    margin-bottom: 52px;
+}
+
+.subtext2 {
+    display: flex;
+    font-weight: 400;
+    color: black;
+    font-size: 14px;
+    width: 100px;
+}
+
+body {
+    text-align: center;
+}
+
+.image {
+    display: flex;
+    border: 2px solid black;
+    outline-style: solid;
+    border-radius: 25px;
+    outline-color: lightblue;
+    width: 100px;
+    height: 100px;
+    align-content: center;
+    max-width: 200px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
